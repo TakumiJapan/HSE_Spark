@@ -1,6 +1,6 @@
 # Research Seminar Homework 2
 
-- Count the number of words in articles on Tokyo 2020 Olympics
+- Counting the number of words in articles on Tokyo 2020 Olympics
 - Visualizing the frequency of appearing words using Word Cloud
 
 - Data source
